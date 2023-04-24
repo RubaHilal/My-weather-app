@@ -1,0 +1,208 @@
+h1 {
+  color: rgb(25, 178, 168);
+  text-align: center;
+}
+
+.border {
+  padding: 400px 200px;
+  display: block;
+}
+
+.col {
+  position: relative;
+  top: 50px;
+}
+
+.align-self-start {
+  position: relative;
+  bottom: 1000px;
+}
+
+.currentCity {
+  box-sizing: content-box;
+  margin-top: -350px;
+  padding-left: 50px;
+  font-size: larger;
+  color: #ced1d4;
+}
+.h2 {
+  box-sizing: content-box;
+  margin-top: -350px;
+  padding-left: 50px;
+  font-size: larger;
+  color: #ced1d4;
+}
+
+.sun {
+  color: #ffdb59;
+  box-sizing: content-box;
+  padding-right: 400px;
+  margin-top: -40px;
+  bottom: 40px;
+  position: relative;
+  margin-left: 120px;
+}
+
+.sign {
+  color: #ffdb59;
+  box-sizing: content-box;
+  padding-right: 400px;
+  margin-top: -40px;
+  bottom: 60px;
+  position: relative;
+  margin-left: 120px;
+}
+.windSign {
+  color: #e0effd;
+}
+.SunRain {
+  color: #bfc3cc;
+}
+.rainSign {
+  color: #71d0f1;
+}
+.degree {
+  font-size: smaller;
+  color: black;
+  text-align: right;
+  margin-right: 170px;
+}
+.AddedCities {
+  font-weight: 400;
+  font-size: 20px;
+  font-family: serif;
+  color: #ced1d4;
+}
+
+.degreeAddedCities {
+  font-size: smaller;
+  color: black;
+  text-align: right;
+  margin-right: 100px;
+}
+
+.signAddedCities {
+  color: #bae2fc;
+  box-sizing: content-box;
+  padding-right: 50px;
+  margin-top: -20px;
+  bottom: 55px;
+  position: relative;
+  margin-left: 160px;
+  font-size: larger;
+}
+
+.date {
+  box-sizing: content-box;
+  margin-top: -330px;
+  padding-left: 50px;
+  font-size: larger;
+  color: #ced1d4;
+}
+
+.dateAddedCities {
+  box-sizing: content-box;
+  margin-top: -330px;
+  color: #ced1d4;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.precipitation {
+  box-sizing: content-box;
+  margin-top: -310px;
+  padding-left: 200px;
+  font-size: larger;
+  color: #ced1d4;
+}
+
+.wind {
+  box-sizing: content-box;
+  margin-top: -290px;
+  padding-left: 200px;
+  font-size: larger;
+  color: #ced1d4;
+}
+
+.vr {
+  position: absolute;
+  margin: 0;
+  height: 1070px;
+  margin-left: 400px;
+  bottom: -330px;
+  top: inherit;
+  width: 3px;
+  color: rgb(25, 178, 168);
+}
+
+.day {
+  font-weight: bolder;
+  text-align: left;
+  box-sizing: content-box;
+  padding-right: 400px;
+  position: relative;
+}
+
+.degrees {
+  font-size: small;
+  color: black;
+  margin-right: 170px;
+  margin-left: 30px;
+  margin-top: -40px;
+  bottom: 18px;
+  position: relative;
+}
+
+.secondColumn {
+  position: relative;
+  margin-left: 500px;
+  box-sizing: content-box;
+  margin-top: -1100px;
+  margin-right: 0px;
+  padding-right: 0;
+  height: max-content;
+  width: max-content;
+}
+.city {
+  font-weight: bold;
+  text-align: left;
+  box-sizing: content-box;
+  padding-right: 300px;
+  position: relative;
+  top: 300px;
+}
+.enter {
+  position: relative;
+  bottom: -10px;
+}
+.Add {
+  position: relative;
+  top: 10px;
+  padding-left: 3px;
+  padding-right: 3px;
+  width: 37px;
+  height: 25px;
+  color: #ffff;
+  background: #19b2a8;
+  border-radius: 5px;
+}
+.search {
+  position: relative;
+  top: 10px;
+  background: #ab47bc;
+  color: #ffff;
+  border-radius: 5px;
+}
+.form {
+  position: relative;
+  left: 450px;
+  bottom: 70px;
+}
+button {
+  margin: 50px 100px 300px 0px;
+  background-color: #19b2a8;
+  color: #ced1d4;
+  padding: -5px -50 px;
+  border-radius: 4px;
+  box-sizing: content-box;
+}
